@@ -97,7 +97,7 @@ def apply_WCS(infile, pix_size=3.6006):
 
     Parameters
     ----------
-    **indile** : Complete path to the FITS file
+    **infile** : Complete path to the FITS file
 
     Keywords
     ----------
